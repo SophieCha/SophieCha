@@ -3,10 +3,7 @@
 
 I am Sophie, a junior web developer 👩‍💻 
 
-I am learning to code since october 2021, if you want to know more about me 👉 [click here](https://www.linkedin.com/in/sophiecharlotte-adou/)
-
-
-  ![girl coding](https://image.freepik.com/vecteurs-libre/site-web-programmation-petits-developpeurs-pour-illustration-vectorielle-plane-plate-forme-internet-programmeurs-dessins-animes-pres-ecran-code-ouvert-script-developpement-logiciels-concept-technologie-numerique_74855-10168.jpg)
+I am learning to code since october 2021, if you want to know more about me 👉 [click here](https://www.linkedin.com/in/sophiecharlotte-adou/)!
 
 #### What are you gonna find here:
 
@@ -17,6 +14,10 @@ I am learning to code since october 2021, if you want to know more about me 👉
 
 - Learning to use Symfony Framework
 - An e-commerce website for a butcher 🥩. (Team Project 🤝)
+
+
+  ![girl coding](https://image.freepik.com/vecteurs-libre/site-web-programmation-petits-developpeurs-pour-illustration-vectorielle-plane-plate-forme-internet-programmeurs-dessins-animes-pres-ecran-code-ouvert-script-developpement-logiciels-concept-technologie-numerique_74855-10168.jpg)
+
 
 
 
